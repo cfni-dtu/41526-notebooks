@@ -1,0 +1,4 @@
+.venv/
+_output/
+.ipynb_checkpoints/
+.jupyterlite.doit.db
